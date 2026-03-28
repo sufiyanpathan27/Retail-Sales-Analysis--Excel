@@ -29,7 +29,7 @@ This project analyzes retail sales data using Excel. The goal was to understand 
 🔹 Dashboard Features
 
 - Interactive slicers (Month, Category, Age Group)
-- Dynamic charts and KPIs
+- Dynamic charts
 - Clean and user-friendly design
 
 🔹 Tools Used
