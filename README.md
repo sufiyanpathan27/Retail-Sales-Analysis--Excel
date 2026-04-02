@@ -1,37 +1,58 @@
-📊 Retail Sales Analysis Dashboard (Excel)
+# Retail Sales Analysis Dashboard (Excel)
 
-🔹 Project Overview
+## Overview
 
-This project analyzes retail sales data using Excel. The goal was to understand sales trends, customer behavior, and product performance.
+This project analyzes retail sales data using Microsoft Excel.
+The objective is to understand sales trends, customer behavior, and product performance through an interactive dashboard.
 
-🔹 Data Cleaning
+---
 
-- Removed missing values and duplicates
-- Verified total amount using quantity and price
-- Created new columns like Month, Year, and Age Group
+## Data Preparation
 
-🔹 Analysis Performed
+The following steps were performed:
 
-- Sales by Category
-- Sales by Gender
-- Monthly Sales Trend
-- Sales by Age Group
-- Quantity by Category
-- Monthly Orders
+* Removed missing values and duplicates
+* Validated total sales using quantity and price
+* Created additional columns such as Month, Year, and Age Group
 
-🔹 Key Insights
+---
 
-- Electronics is the top performing category
-- Female customers contribute slightly more to total sales
-- Middle age group generates the highest sales
-- Sales vary across months with some peak periods
+## Analysis Performed
 
-🔹 Dashboard Features
+The dashboard includes the following analysis:
 
-- Interactive slicers (Month, Category, Age Group)
-- Dynamic charts
-- Clean and user-friendly design
+* Sales by Category
+* Sales by Gender
+* Monthly Sales Trend
+* Sales by Age Group
+* Quantity by Category
+* Monthly Orders
 
-🔹 Tools Used
+---
 
-- Microsoft Excel
+## Key Insights
+
+* Electronics is the top-performing category
+* Female customers contribute slightly more to total sales
+* Middle age group generates the highest sales
+* Sales show variation across months with peak periods
+
+---
+
+## Dashboard Features
+
+* Interactive slicers (Month, Category, Age Group)
+* Dynamic and responsive charts
+* Clean and user-friendly layout
+
+---
+
+## Tools Used
+
+* Microsoft Excel
+
+---
+
+## Conclusion
+
+This dashboard provides a clear view of retail sales performance and helps identify key trends and customer patterns for better decision-making.
