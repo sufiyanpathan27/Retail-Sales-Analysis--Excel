@@ -1,7 +1,8 @@
 Retail Sales Analysis
 
 Overview
-This project analyzes retail sales data using Microsoft Excel. The objective is to understand sales trends, customer behavior, and product performance.
+This project analyzes retail sales data using Microsoft Excel. 
+The objective is to understand sales trends, customer behavior, and product performance.
 
 Data Preparation
 Removed missing values and duplicates
@@ -24,4 +25,5 @@ Tools Used
 Microsoft Excel
 
 Conclusion
-This project helped in understanding sales trends, customer behavior, and product performance. It also improved practical skills in Excel data analysis.
+This project helped in understanding sales trends, customer behavior, and product performance.
+It also improved practical skills in Excel data analysis.
