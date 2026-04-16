@@ -1,4 +1,4 @@
-Retail Sales Analysis -- Overview 
+<u>Retail Sales Analysis -- Overview</u>
  
 This project analyzes retail sales data using Microsoft Excel. The objective is to understand sales trends, customer behavior, and product performance.
 
