@@ -1,4 +1,4 @@
-<u>Retail Sales Analysis -- Overview</u>
+## Overview
  
 This project analyzes retail sales data using Microsoft Excel. The objective is to understand sales trends, customer behavior, and product performance.
 
@@ -17,7 +17,7 @@ Insights :
 - Some months show higher sales, indicating peak demand periods.  
 
 Tool  
-- Microsoft Excel 
+  Microsoft Excel 
 
 Dashboard
 ![Dashboard](Dashboard.png)
