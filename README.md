@@ -3,9 +3,10 @@ Retail Sales Analysis -- Overview
 This project analyzes retail sales data using Microsoft Excel. The objective is to understand sales trends, customer behavior, and product performance.
 
 Data Preparation :
-Removed missing values and duplicates  
-Validated total sales using quantity and price  
-Created additional columns such as Month, Year, and Age Group  
+
+- Removed missing values and duplicates  
+- Validated total sales using quantity and price  
+- Created additional columns such as Month, Year, and Age Group  
 
 Insights : 
 
