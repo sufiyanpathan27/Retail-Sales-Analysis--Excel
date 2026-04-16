@@ -17,7 +17,11 @@ Insights :
 - Some months show higher sales, indicating peak demand periods.  
 
 Tool 
-Microsoft Excel  
+Microsoft Excel 
 
-Conclusion  
+Dashboard
+![Dashboard](Dashboard.png)
+
+Conclusion 
+
 This project helped in understanding sales trends, customer behavior, and product performance. It also improved practical skills in Excel data analysis.
