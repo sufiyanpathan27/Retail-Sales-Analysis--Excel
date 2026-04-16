@@ -16,8 +16,8 @@ Insights :
 - Sales change across different months and are not constant.  
 - Some months show higher sales, indicating peak demand periods.  
 
-Tool 
-Microsoft Excel 
+Tool  
+- Microsoft Excel 
 
 Dashboard
 ![Dashboard](Dashboard.png)
